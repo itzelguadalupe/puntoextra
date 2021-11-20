@@ -1,0 +1,24 @@
+.texto{
+	font-family:verdana;
+	font-size: 30px ;
+	text-align: center;
+	background-color:#FF5F3B; 
+	color:#ffffff;
+	color:#ffffff;
+	height: 40px;
+}
+body{
+	background:#FFE167;
+	color:#CCD1D1;
+	color:#F5B041;
+	color:#FFCCE9;
+	color:#ffffff;
+	color:#ffffff;
+}
+.inicio{
+	font-family:verdana;
+	text-align: justify;
+	width:900px;
+	background-color:#FF5F3B;
+	height: 200px;
+}
